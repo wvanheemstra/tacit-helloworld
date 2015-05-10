@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wvanheemstra/tacit.git"
+    "url": "https://github.com/wvanheemstra/tacit-helloworld.git"
   },
   "keywords": [
     "tacit",
@@ -17,12 +17,12 @@
   "author": "Willem van Heemstra <willem@vanheemstrasystems.com> (http://vanheemstrasystems.com)",
   "licenses": [{
     "type": "MIT",
-    "url": "https://github.com/wvanheemstra/tacit/blob/master/tacit_modules/tacit-helloworld/LICENSE-MIT"
+    "url": "https://github.com/wvanheemstra/tacit-helloworld/blob/master/LICENSE-MIT"
   }],
   "bugs": {
-    "url": "https://github.com/wvanheemstra/tacit/issues"
+    "url": "https://github.com/wvanheemstra/tacit-helloworld/issues"
   },
-  "homepage": "https://github.com/wvanheemstra/tacit",
+  "homepage": "https://github.com/wvanheemstra/tacit-helloworld",
   "devDependencies": {
     "chai": "^2.3.0",
     "mocha": "^2.2.4"
