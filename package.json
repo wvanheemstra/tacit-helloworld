@@ -15,7 +15,7 @@
     "example"
   ],
   "author": "Willem van Heemstra <willem@vanheemstrasystems.com> (http://vanheemstrasystems.com)",
-  "licenses": [{
+  "license": [{
     "type": "MIT",
     "url": "https://github.com/wvanheemstra/tacit-helloworld/blob/master/LICENSE-MIT"
   }],
